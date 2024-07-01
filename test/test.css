@@ -1,0 +1,5 @@
+.block_element {
+  color: #000;
+  display: block;
+  background: oklch(0% 0 0);
+}
