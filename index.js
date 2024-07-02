@@ -8,7 +8,6 @@ module.exports = {
       }
     ],
     'property-no-vendor-prefix': null,
-    'function-disallowed-list': ['rgba', 'hsla'],
     'color-function-notation': 'modern',
     'no-irregular-whitespace': null,
     'selector-class-pattern': null,
